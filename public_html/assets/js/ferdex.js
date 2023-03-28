@@ -47,7 +47,8 @@ ymaps.ready(function () {
   var map = new ymaps.Map('map', {
     center: [40.674, -73.945],
     zoom: 12,
-    controls: ['zoomControl']
+      controls: ['zoomControl']
+
   }, {
     suppressMapOpenBlock: true,
     yandexMapDisablePoiInteractivity: true,
