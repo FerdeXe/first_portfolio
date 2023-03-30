@@ -75,6 +75,7 @@ ymaps.ready(function () {
     })
   });
 
+
   // Создаем стилизованные объекты управления
   var zoomControl = new ymaps.control.ZoomControl({
     options: {
