@@ -1,5 +1,4 @@
-# pilot_portfolio
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -14,7 +13,7 @@
 	<link rel="stylesheet" href="assets/css/ferdex.css">
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
-    <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i>Узнать больше</a>
+    <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i>РЈР·РЅР°С‚СЊ Р±РѕР»СЊС€Рµ</a>
     <header class="header">
         <div class="container">
             <ul class="social-icons pt-3">
@@ -26,7 +25,7 @@
             </ul>  
             <div class="header-content">
                 <h4 class="header-subtitle" ></h4>
-                <h1 class="header-title">Андреев Андрей</h1>
+                <h1 class="header-title">РђРЅРґСЂРµРµРІ РђРЅРґСЂРµР№</h1>
                 <h6 class="header-mono" >UX Designer | Software engineer</h6>
                 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button>
             </div>
@@ -40,31 +39,31 @@
             <div class="collapse mt-sm-20 navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a href="#home" class="nav-link">Главная</a>
+                        <a href="#home" class="nav-link">Р“Р»Р°РІРЅР°СЏ</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#about" class="nav-link">Обо мне</a>
+                        <a href="#about" class="nav-link">РћР±Рѕ РјРЅРµ</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#resume" class="nav-link">Резюме</a>
+                        <a href="#resume" class="nav-link">Р РµР·СЋРјРµ</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav brand">
                     <img src="assets/imgs/avatar.jpg" alt="" class="brand-img">
                     <li class="brand-txt">
-                        <h5 class="brand-title">Андреев Андрей</h5>
+                        <h5 class="brand-title">РђРЅРґСЂРµРµРІ РђРЅРґСЂРµР№</h5>
                         <div class="brand-subtitle">UX Designer | Software engineer</div>
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#portfolio" class="nav-link">Портфолио</a>
+                        <a href="#portfolio" class="nav-link">РџРѕСЂС‚С„РѕР»РёРѕ</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#blog" class="nav-link">Блог</a>
+                        <a href="#blog" class="nav-link">Р‘Р»РѕРі</a>
                     </li>
                     <li class="nav-item last-item">
-                        <a href="#contact" class="nav-link">Контакты</a>
+                        <a href="#contact" class="nav-link">РљРѕРЅС‚Р°РєС‚С‹</a>
                     </li>
                 </ul>
             </div>
@@ -73,21 +72,21 @@
     <div class="container-fluid">
         <div id="about" class="row about-section">
             <div class="col-lg-4 about-card">
-                <h3 class="font-weight-light">Кто я ?</h3>
+                <h3 class="font-weight-light">РљС‚Рѕ СЏ ?</h3>
                 <span class="line mb-5"></span>
-                <h5 class="mb-3">UX Designer / Software engineer, ученик старших классов из Омска</h5>
-                <p class="mt-20">Дополнительные сведения обо мне можно найти на моём блоге. </p>
-                <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i>Зайти на мой блог</button>
+                <h5 class="mb-3">UX Designer / Software engineer, СѓС‡РµРЅРёРє СЃС‚Р°СЂС€РёС… РєР»Р°СЃСЃРѕРІ РёР· РћРјСЃРєР°</h5>
+                <p class="mt-20">Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Рµ СЃРІРµРґРµРЅРёСЏ РѕР±Рѕ РјРЅРµ РјРѕР¶РЅРѕ РЅР°Р№С‚Рё РЅР° РјРѕС‘Рј Р±Р»РѕРіРµ. </p>
+                <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i>Р—Р°Р№С‚Рё РЅР° РјРѕР№ Р±Р»РѕРі</button>
             </div>
             <div class="col-lg-4 about-card">
-                <h3 class="font-weight-light">Личная информация</h3>
+                <h3 class="font-weight-light">Р›РёС‡РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ</h3>
                 <span class="line mb-5"></span>
                 <ul class="mt40 info list-unstyled">
-                    <li><span>День рождения</span> : 12/05/2006</li>
-                    <li><span>Почта</span> : andreevandreyworker@gmail.com</li>
-                    <li><span>Телефон</span> : +7 901 263 06 42</li>
-                    <li><span>Дискорд</span> : Ferdex#6705 </li>
-                    <li><span>Адрес</span> :  ул. 70 лет Октября, 7, Омск, Омская обл., Россия, 644074</li>
+                    <li><span>Р”РµРЅСЊ СЂРѕР¶РґРµРЅРёСЏ</span> : 12/05/2006</li>
+                    <li><span>РџРѕС‡С‚Р°</span> : andreevandreyworker@gmail.com</li>
+                    <li><span>РўРµР»РµС„РѕРЅ</span> : +7 901 263 06 42</li>
+                    <li><span>Р”РёСЃРєРѕСЂРґ</span> : Ferdex#6705 </li>
+                    <li><span>РђРґСЂРµСЃ</span> :  СѓР». 70 Р»РµС‚ РћРєС‚СЏР±СЂСЏ, 7, РћРјСЃРє, РћРјСЃРєР°СЏ РѕР±Р»., Р РѕСЃСЃРёСЏ, 644074</li>
                 </ul>
                 <ul class="social-icons pt-3">
                     <li class="social-item"><a class="social-link" href="https://t.me/privetick"><i class="icon-telegram_icon_136124" aria-hidden="true"></i></a></li>
@@ -98,29 +97,29 @@
                 </ul>  
             </div>
             <div class="col-lg-4 about-card">
-                <h3 class="font-weight-light">Специализация</h3>
+                <h3 class="font-weight-light">РЎРїРµС†РёР°Р»РёР·Р°С†РёСЏ</h3>
                 <span class="line mb-5"></span>
                 <div class="row">
 	                <div class="col-1 text-danger pt-1"><i class="icon-heart icon-lg ti-widget"></i></div>
                     <div class="col-10 ml-auto mr-3">
                         <h6>UX Design</h6>
-                        <p class="subtitle">Пользователи скажут Вам спасибо.</p>
+                        <p class="subtitle">РџРѕР»СЊР·РѕРІР°С‚РµР»Рё СЃРєР°Р¶СѓС‚ Р’Р°Рј СЃРїР°СЃРёР±Рѕ.</p>
                         <hr>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-1 text-danger pt-1"><i class="icon-4552604-globe-internet-sphere-web_121385 icon-lg ti-widget"></i></div>
                     <div class="col-10 ml-auto mr-3">
-                        <h6>Web разработка</h6>
-                        <p class="subtitle">Пусть вашу компанию увидит весь мир.</p>
+                        <h6>Web СЂР°Р·СЂР°Р±РѕС‚РєР°</h6>
+                        <p class="subtitle">РџСѓСЃС‚СЊ РІР°С€Сѓ РєРѕРјРїР°РЅРёСЋ СѓРІРёРґРёС‚ РІРµСЃСЊ РјРёСЂ.</p>
                         <hr>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-1 text-danger pt-1"><i class="icon-gamepad icon-lg ti-widget"></i></div>
                     <div class="col-10 ml-auto mr-3">
-                        <h6>Разработка на Unreal Engine 5</h6>
-                        <p class="subtitle">Станьте обладателем собственной игрушки.</p>
+                        <h6>Р Р°Р·СЂР°Р±РѕС‚РєР° РЅР° Unreal Engine 5</h6>
+                        <p class="subtitle">РЎС‚Р°РЅСЊС‚Рµ РѕР±Р»Р°РґР°С‚РµР»РµРј СЃРѕР±СЃС‚РІРµРЅРЅРѕР№ РёРіСЂСѓС€РєРё.</p>
                         <hr>
                     </div>
                 </div>
@@ -131,28 +130,28 @@
     <!--Resume Section-->
     <section class="section" id="resume">
         <div class="container">
-            <h2 class="mb-5"><span class="text-danger">Моё</span> Резюме</h2>
+            <h2 class="mb-5"><span class="text-danger">РњРѕС‘</span> Р РµР·СЋРјРµ</h2>
             <div class="row">
                 <div class="col-md-6 col-lg-4">
                     <div class="card">
                        <div class="card-header">
                             <div class="mt-2">
-                                <h4>Специализация</h4>
+                                <h4>РЎРїРµС†РёР°Р»РёР·Р°С†РёСЏ</h4>
                                 <span class="line"></span>  
                             </div>
                         </div>
                         <div class="card-body">
-                            <h6 class="title text-danger">2023 - Настоящее время</h6>
-                            <P>Разработка на Unreal Engine 5 </P>
-                            <P class="subtitle">Unreal Engine 5 помог мне воплотить мои идеи в жизнь и создать невероятные проекты, которые я раньше даже не представлял возможными.</P>
+                            <h6 class="title text-danger">2023 - РќР°СЃС‚РѕСЏС‰РµРµ РІСЂРµРјСЏ</h6>
+                            <P>Р Р°Р·СЂР°Р±РѕС‚РєР° РЅР° Unreal Engine 5 </P>
+                            <P class="subtitle">Unreal Engine 5 РїРѕРјРѕРі РјРЅРµ РІРѕРїР»РѕС‚РёС‚СЊ РјРѕРё РёРґРµРё РІ Р¶РёР·РЅСЊ Рё СЃРѕР·РґР°С‚СЊ РЅРµРІРµСЂРѕСЏС‚РЅС‹Рµ РїСЂРѕРµРєС‚С‹, РєРѕС‚РѕСЂС‹Рµ СЏ СЂР°РЅСЊС€Рµ РґР°Р¶Рµ РЅРµ РїСЂРµРґСЃС‚Р°РІР»СЏР» РІРѕР·РјРѕР¶РЅС‹РјРё.</P>
                             <hr>
                             <h6 class="title text-danger">2022 - 2023</h6>
-                            <P>Web разработка</P>
-                            <P class="subtitle">За 1 год я научился создавать работать с .NET, Umbraco, поднимать сайты различной степени сложности. За 1-2 недели напишу сайт под все ваши нужды.</P>
+                            <P>Web СЂР°Р·СЂР°Р±РѕС‚РєР°</P>
+                            <P class="subtitle">Р—Р° 1 РіРѕРґ СЏ РЅР°СѓС‡РёР»СЃСЏ СЃРѕР·РґР°РІР°С‚СЊ СЂР°Р±РѕС‚Р°С‚СЊ СЃ .NET, Umbraco, РїРѕРґРЅРёРјР°С‚СЊ СЃР°Р№С‚С‹ СЂР°Р·Р»РёС‡РЅРѕР№ СЃС‚РµРїРµРЅРё СЃР»РѕР¶РЅРѕСЃС‚Рё. Р—Р° 1-2 РЅРµРґРµР»Рё РЅР°РїРёС€Сѓ СЃР°Р№С‚ РїРѕРґ РІСЃРµ РІР°С€Рё РЅСѓР¶РґС‹.</P>
                             <hr>
                             <h6 class="title text-danger">2021 - 2022</h6>
-                            <P>UX Дизайн</P>
-                            <P class="subtitle">UX дизайн - это важная часть создания любого проекта, включая игры. Я стараюсь учитывать потребности пользователей и делать интерфейс максимально интуитивно понятным.</P>
+                            <P>UX Р”РёР·Р°Р№РЅ</P>
+                            <P class="subtitle">UX РґРёР·Р°Р№РЅ - СЌС‚Рѕ РІР°Р¶РЅР°СЏ С‡Р°СЃС‚СЊ СЃРѕР·РґР°РЅРёСЏ Р»СЋР±РѕРіРѕ РїСЂРѕРµРєС‚Р°, РІРєР»СЋС‡Р°СЏ РёРіСЂС‹. РЇ СЃС‚Р°СЂР°СЋСЃСЊ СѓС‡РёС‚С‹РІР°С‚СЊ РїРѕС‚СЂРµР±РЅРѕСЃС‚Рё РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ Рё РґРµР»Р°С‚СЊ РёРЅС‚РµСЂС„РµР№СЃ РјР°РєСЃРёРјР°Р»СЊРЅРѕ РёРЅС‚СѓРёС‚РёРІРЅРѕ РїРѕРЅСЏС‚РЅС‹Рј.</P>
                         </div>
                     </div>
                 </div>
@@ -160,18 +159,18 @@
                     <div class="card">
                        <div class="card-header">
                             <div class="mt-2">
-                                <h4>Образование</h4>
+                                <h4>РћР±СЂР°Р·РѕРІР°РЅРёРµ</h4>
                                 <span class="line"></span>  
                             </div>
                         </div>
                         <div class="card-body">
                             <h6 class="title text-danger">2023 - 2024</h6>
-                            <P>Окнчание 11 класса</P>
-                            <P class="subtitle">11 лет обучения в школе были для меня уникальным опытом, который сильно повлиял на мою жизнь. Я получил не только знания и умения, но и ценные навыки, такие как организация времени и работа в команде.</P>
+                            <P>РћРєРЅС‡Р°РЅРёРµ 11 РєР»Р°СЃСЃР°</P>
+                            <P class="subtitle">11 Р»РµС‚ РѕР±СѓС‡РµРЅРёСЏ РІ С€РєРѕР»Рµ Р±С‹Р»Рё РґР»СЏ РјРµРЅСЏ СѓРЅРёРєР°Р»СЊРЅС‹Рј РѕРїС‹С‚РѕРј, РєРѕС‚РѕСЂС‹Р№ СЃРёР»СЊРЅРѕ РїРѕРІР»РёСЏР» РЅР° РјРѕСЋ Р¶РёР·РЅСЊ. РЇ РїРѕР»СѓС‡РёР» РЅРµ С‚РѕР»СЊРєРѕ Р·РЅР°РЅРёСЏ Рё СѓРјРµРЅРёСЏ, РЅРѕ Рё С†РµРЅРЅС‹Рµ РЅР°РІС‹РєРё, С‚Р°РєРёРµ РєР°Рє РѕСЂРіР°РЅРёР·Р°С†РёСЏ РІСЂРµРјРµРЅРё Рё СЂР°Р±РѕС‚Р° РІ РєРѕРјР°РЅРґРµ.</P>
                             <hr>
                             <h6 class="title text-danger">2022 - 2023</h6>
-                            <P>Курс «ASP.NET Core MVC, Quick and Practical»</P>
-                            <P class="subtitle">Курс «ASP.NET Core MVC, Quick and Practical» от Сепехра Эсмаэйли стал для меня окном в мир .NET. Он дал мне много практических занятий и работы с реальными примерами проектов. </P>
+                            <P>РљСѓСЂСЃ В«ASP.NET Core MVC, Quick and PracticalВ»</P>
+                            <P class="subtitle">РљСѓСЂСЃ В«ASP.NET Core MVC, Quick and PracticalВ» РѕС‚ РЎРµРїРµС…СЂР° Р­СЃРјР°СЌР№Р»Рё СЃС‚Р°Р» РґР»СЏ РјРµРЅСЏ РѕРєРЅРѕРј РІ РјРёСЂ .NET. РћРЅ РґР°Р» РјРЅРµ РјРЅРѕРіРѕ РїСЂР°РєС‚РёС‡РµСЃРєРёС… Р·Р°РЅСЏС‚РёР№ Рё СЂР°Р±РѕС‚С‹ СЃ СЂРµР°Р»СЊРЅС‹РјРё РїСЂРёРјРµСЂР°РјРё РїСЂРѕРµРєС‚РѕРІ. </P>
                             
                             
                             
@@ -182,7 +181,7 @@
                     <div class="card">
                        <div class="card-header">
                             <div class="pull-left">
-                                <h4 class="mt-2">Навыки</h4>
+                                <h4 class="mt-2">РќР°РІС‹РєРё</h4>
                                 <span class="line"></span>  
                             </div>
                         </div>
@@ -209,16 +208,16 @@
                     <div class="card">
                        <div class="card-header">
                             <div class="pull-left">
-                                <h4 class="mt-2">Языки</h4>
+                                <h4 class="mt-2">РЇР·С‹РєРё</h4>
                                 <span class="line"></span>  
                             </div>
                         </div>
                         <div class="card-body pb-2">
-                           <h6>Русский</h6>
+                           <h6>Р СѓСЃСЃРєРёР№</h6>
                             <div class="progress mb-3">
                                 <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>Английский</h6>
+                            <h6>РђРЅРіР»РёР№СЃРєРёР№</h6>
                             <div class="progress mb-3">
                                 <div class="progress-bar bg-danger" role="progressbar" style="width: 45%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
@@ -240,7 +239,7 @@
                         </div>
                         <div class="col-7 text-left py-3">
                             <h1 class="text-danger font-weight-bold font40">1,5k</h1>
-                            <p class="text-light mb-1">Отработанных часов</p>
+                            <p class="text-light mb-1">РћС‚СЂР°Р±РѕС‚Р°РЅРЅС‹С… С‡Р°СЃРѕРІ</p>
                         </div>
                     </div>
                 </div>
@@ -251,7 +250,7 @@
                         </div>
                         <div class="col-7 text-left py-3">
                             <h1 class="text-danger font-weight-bold font40">100</h1>
-                            <p class="text-light mb-1">Завершённых проектов</p>
+                            <p class="text-light mb-1">Р—Р°РІРµСЂС€С‘РЅРЅС‹С… РїСЂРѕРµРєС‚РѕРІ</p>
                         </div>
                     </div>
                 </div>
@@ -261,8 +260,8 @@
                             <div class="m-auto"><i class=" icon-emo-devil ti-widget icon-xl"></i></div>
                         </div>
                         <div class="col-7 text-left py-3">
-                            <h1 class="text-danger font-weight-bold font40">2к</h1>
-                            <p class="text-light mb-1">Просмотренных аниме серий</p>
+                            <h1 class="text-danger font-weight-bold font40">2Рє</h1>
+                            <p class="text-light mb-1">РџСЂРѕСЃРјРѕС‚СЂРµРЅРЅС‹С… Р°РЅРёРјРµ СЃРµСЂРёР№</p>
                         </div>
                     </div>
                 </div>
@@ -273,7 +272,7 @@
                         </div>
                         <div class="col-7 text-left py-3">
                             <h1 class="text-danger font-weight-bold font40">3k</h1>
-                            <p class="text-light mb-1">Кружек чая выпито</p>
+                            <p class="text-light mb-1">РљСЂСѓР¶РµРє С‡Р°СЏ РІС‹РїРёС‚Рѕ</p>
                         </div>
                     </div>
                 </div>
@@ -283,7 +282,7 @@
 
     <section class="section" id="service">
         <div class="container">
-            <h2 class="mb-5 pb-4"><span class="text-danger">Мои</span> Услуги</h2>
+            <h2 class="mb-5 pb-4"><span class="text-danger">РњРѕРё</span> РЈСЃР»СѓРіРё</h2>
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="card mb-5">
@@ -291,8 +290,8 @@
                             <i class="icon-4552604-globe-internet-sphere-web_121385 ti-widget text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Написание сайта</h5>
-                            <P class="subtitle">Не теряйте потенциальных клиентов из-за устаревшего или неудобного сайта. Я предлагаю услуги профессионального веб-разработчика. Легко создам для вас современный и удобный сайт, который будет привлекать новых пользователей и удерживать текущих.</P>
+                            <h5 class="mb-3 card-title text-dark">РќР°РїРёСЃР°РЅРёРµ СЃР°Р№С‚Р°</h5>
+                            <P class="subtitle">РќРµ С‚РµСЂСЏР№С‚Рµ РїРѕС‚РµРЅС†РёР°Р»СЊРЅС‹С… РєР»РёРµРЅС‚РѕРІ РёР·-Р·Р° СѓСЃС‚Р°СЂРµРІС€РµРіРѕ РёР»Рё РЅРµСѓРґРѕР±РЅРѕРіРѕ СЃР°Р№С‚Р°. РЇ РїСЂРµРґР»Р°РіР°СЋ СѓСЃР»СѓРіРё РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅРѕРіРѕ РІРµР±-СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°. Р›РµРіРєРѕ СЃРѕР·РґР°Рј РґР»СЏ РІР°СЃ СЃРѕРІСЂРµРјРµРЅРЅС‹Р№ Рё СѓРґРѕР±РЅС‹Р№ СЃР°Р№С‚, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РїСЂРёРІР»РµРєР°С‚СЊ РЅРѕРІС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ Рё СѓРґРµСЂР¶РёРІР°С‚СЊ С‚РµРєСѓС‰РёС….</P>
                         </div>
                     </div>
                 </div>
@@ -302,8 +301,8 @@
                             <i class="icon-4213465-computer-freelancer-internet-office-online-work-working_115434 ti-widget text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Поддержка сайта</h5>
-                            <P class="subtitle">Я уделяю особое значение поддержке ваших потребностей и всегда готов оказать помощь, когда вам это необходимо. Не важно, нужны ли вам небольшие исправления, обновления или новые функции, я буду работать вместе с вами, чтобы гарантировать, что ваш сайт работает максимально эффективно. </P>
+                            <h5 class="mb-3 card-title text-dark">РџРѕРґРґРµСЂР¶РєР° СЃР°Р№С‚Р°</h5>
+                            <P class="subtitle">РЇ СѓРґРµР»СЏСЋ РѕСЃРѕР±РѕРµ Р·РЅР°С‡РµРЅРёРµ РїРѕРґРґРµСЂР¶РєРµ РІР°С€РёС… РїРѕС‚СЂРµР±РЅРѕСЃС‚РµР№ Рё РІСЃРµРіРґР° РіРѕС‚РѕРІ РѕРєР°Р·Р°С‚СЊ РїРѕРјРѕС‰СЊ, РєРѕРіРґР° РІР°Рј СЌС‚Рѕ РЅРµРѕР±С…РѕРґРёРјРѕ. РќРµ РІР°Р¶РЅРѕ, РЅСѓР¶РЅС‹ Р»Рё РІР°Рј РЅРµР±РѕР»СЊС€РёРµ РёСЃРїСЂР°РІР»РµРЅРёСЏ, РѕР±РЅРѕРІР»РµРЅРёСЏ РёР»Рё РЅРѕРІС‹Рµ С„СѓРЅРєС†РёРё, СЏ Р±СѓРґСѓ СЂР°Р±РѕС‚Р°С‚СЊ РІРјРµСЃС‚Рµ СЃ РІР°РјРё, С‡С‚РѕР±С‹ РіР°СЂР°РЅС‚РёСЂРѕРІР°С‚СЊ, С‡С‚Рѕ РІР°С€ СЃР°Р№С‚ СЂР°Р±РѕС‚Р°РµС‚ РјР°РєСЃРёРјР°Р»СЊРЅРѕ СЌС„С„РµРєС‚РёРІРЅРѕ. </P>
                         </div>
                     </div>
                 </div>
@@ -313,8 +312,8 @@
                             <i class="icon-bot_icon_215703 ti-widget text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Написание телеграм бота</h5>
-                            <P class="subtitle">Хотите сделать свой бизнес более эффективным и удобным для клиентов? Я, как software engineer, в силах создать для вас телеграм бота, который будет автоматизировать процессы или улучшать связь с клиентами. Оставьте все заботы о разработке на мне!</P>
+                            <h5 class="mb-3 card-title text-dark">РќР°РїРёСЃР°РЅРёРµ С‚РµР»РµРіСЂР°Рј Р±РѕС‚Р°</h5>
+                            <P class="subtitle">РҐРѕС‚РёС‚Рµ СЃРґРµР»Р°С‚СЊ СЃРІРѕР№ Р±РёР·РЅРµСЃ Р±РѕР»РµРµ СЌС„С„РµРєС‚РёРІРЅС‹Рј Рё СѓРґРѕР±РЅС‹Рј РґР»СЏ РєР»РёРµРЅС‚РѕРІ? РЇ, РєР°Рє software engineer, РІ СЃРёР»Р°С… СЃРѕР·РґР°С‚СЊ РґР»СЏ РІР°СЃ С‚РµР»РµРіСЂР°Рј Р±РѕС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ Р°РІС‚РѕРјР°С‚РёР·РёСЂРѕРІР°С‚СЊ РїСЂРѕС†РµСЃСЃС‹ РёР»Рё СѓР»СѓС‡С€Р°С‚СЊ СЃРІСЏР·СЊ СЃ РєР»РёРµРЅС‚Р°РјРё. РћСЃС‚Р°РІСЊС‚Рµ РІСЃРµ Р·Р°Р±РѕС‚С‹ Рѕ СЂР°Р·СЂР°Р±РѕС‚РєРµ РЅР° РјРЅРµ!</P>
                         </div>
                     </div>
                 </div>
@@ -324,8 +323,8 @@
                             <i class="icon-article ti-widget text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Создание парсера</h5>
-                            <P class="subtitle">С моей услугой по разработке парсера вы сможете автоматически собирать нужную информацию с веб-сайтов. Это значительно сэкономит ваше время и гарантирует точность результатов. </P>
+                            <h5 class="mb-3 card-title text-dark">РЎРѕР·РґР°РЅРёРµ РїР°СЂСЃРµСЂР°</h5>
+                            <P class="subtitle">РЎ РјРѕРµР№ СѓСЃР»СѓРіРѕР№ РїРѕ СЂР°Р·СЂР°Р±РѕС‚РєРµ РїР°СЂСЃРµСЂР° РІС‹ СЃРјРѕР¶РµС‚Рµ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё СЃРѕР±РёСЂР°С‚СЊ РЅСѓР¶РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ СЃ РІРµР±-СЃР°Р№С‚РѕРІ. Р­С‚Рѕ Р·РЅР°С‡РёС‚РµР»СЊРЅРѕ СЃСЌРєРѕРЅРѕРјРёС‚ РІР°С€Рµ РІСЂРµРјСЏ Рё РіР°СЂР°РЅС‚РёСЂСѓРµС‚ С‚РѕС‡РЅРѕСЃС‚СЊ СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ. </P>
                         </div>
                     </div>
                 </div>
@@ -335,8 +334,8 @@
                             <i class="icon-4230531-design-development-engineering_114995 ti-widget text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Создание UX дизайна</h5>
-                            <P class="subtitle">Вам нужен пользовательский интерфейс, который будет привлекать и удерживать ваших клиентов? Я помогу вам создать не только красивый UX дизайн, но и удобный в использовании. </P>
+                            <h5 class="mb-3 card-title text-dark">РЎРѕР·РґР°РЅРёРµ UX РґРёР·Р°Р№РЅР°</h5>
+                            <P class="subtitle">Р’Р°Рј РЅСѓР¶РµРЅ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёР№ РёРЅС‚РµСЂС„РµР№СЃ, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РїСЂРёРІР»РµРєР°С‚СЊ Рё СѓРґРµСЂР¶РёРІР°С‚СЊ РІР°С€РёС… РєР»РёРµРЅС‚РѕРІ? РЇ РїРѕРјРѕРіСѓ РІР°Рј СЃРѕР·РґР°С‚СЊ РЅРµ С‚РѕР»СЊРєРѕ РєСЂР°СЃРёРІС‹Р№ UX РґРёР·Р°Р№РЅ, РЅРѕ Рё СѓРґРѕР±РЅС‹Р№ РІ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРё. </P>
                         </div>
                     </div>
                 </div>
@@ -346,8 +345,8 @@
                             <i class="icon-gamepad ti-widget text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Разработка персональной игры </h5>
-                            <P class="subtitle">Хотите создать свою игру, но не знаете, как начать? Я могу помочь вам воплотить вашу идею в реальность. Вместе мы можем создать игру вашей мечты и сделать ее доступной для всего мира. </P>
+                            <h5 class="mb-3 card-title text-dark">Р Р°Р·СЂР°Р±РѕС‚РєР° РїРµСЂСЃРѕРЅР°Р»СЊРЅРѕР№ РёРіСЂС‹ </h5>
+                            <P class="subtitle">РҐРѕС‚РёС‚Рµ СЃРѕР·РґР°С‚СЊ СЃРІРѕСЋ РёРіСЂСѓ, РЅРѕ РЅРµ Р·РЅР°РµС‚Рµ, РєР°Рє РЅР°С‡Р°С‚СЊ? РЇ РјРѕРіСѓ РїРѕРјРѕС‡СЊ РІР°Рј РІРѕРїР»РѕС‚РёС‚СЊ РІР°С€Сѓ РёРґРµСЋ РІ СЂРµР°Р»СЊРЅРѕСЃС‚СЊ. Р’РјРµСЃС‚Рµ РјС‹ РјРѕР¶РµРј СЃРѕР·РґР°С‚СЊ РёРіСЂСѓ РІР°С€РµР№ РјРµС‡С‚С‹ Рё СЃРґРµР»Р°С‚СЊ РµРµ РґРѕСЃС‚СѓРїРЅРѕР№ РґР»СЏ РІСЃРµРіРѕ РјРёСЂР°. </P>
                         </div>
                     </div>
                 </div>
@@ -358,19 +357,19 @@
     
     <section class="section bg-dark py-5">
         <div class="container text-center">
-            <h2 class="text-light mb-5 font-weight-normal">Я доступен для фриланс-проектов.</h2>
-            <button class="btn bg-primary w-lg" >Напиши мне</button>
+            <h2 class="text-light mb-5 font-weight-normal">РЇ РґРѕСЃС‚СѓРїРµРЅ РґР»СЏ С„СЂРёР»Р°РЅСЃ-РїСЂРѕРµРєС‚РѕРІ.</h2>
+            <button class="btn bg-primary w-lg" >РќР°РїРёС€Рё РјРЅРµ</button>
         </div>
     </section>
 
     <!-- Portfolio Section -->
     <section class="section bg-custom-gray" id="portfolio">
         <div class="container">
-            <h1 class="mb-5"><span class="text-danger">Моё</span> Портфолио</h1>
+            <h1 class="mb-5"><span class="text-danger">РњРѕС‘</span> РџРѕСЂС‚С„РѕР»РёРѕ</h1>
             <div class="portfolio">
                 <div class="filters">
                     <a href="#" data-filter=".new" class="active">
-                        Новинки
+                        РќРѕРІРёРЅРєРё
                     </a>
                     <a href="#" data-filter=".advertising">
                         UX
@@ -379,7 +378,7 @@
                         UE5
                     </a>
                     <a href="#" data-filter=".web">
-                        Веб
+                        Р’РµР±
                     </a>
                 </div>
                 <div class="portfolio-container"> 
@@ -389,8 +388,8 @@
                             <div class="content-holder">
                                 <a class="img-popup" href="assets/imgs/web-1.jpg"></a>
                                 <div class="text-holder">
-                                    <h6 class="title">Веб</h6>
-                                    <p class="subtitle">Сайт портфолио на котором вы сейчас находитесь.</p>
+                                    <h6 class="title">Р’РµР±</h6>
+                                    <p class="subtitle">РЎР°Р№С‚ РїРѕСЂС‚С„РѕР»РёРѕ РЅР° РєРѕС‚РѕСЂРѕРј РІС‹ СЃРµР№С‡Р°СЃ РЅР°С…РѕРґРёС‚РµСЃСЊ.</p>
                                 </div>
                             </div>   
                         </div>             
@@ -401,8 +400,8 @@
                             <div class="content-holder">
                                 <a class="img-popup" href="assets/imgs/web-2.jpg"></a>
                                 <div class="text-holder">
-                                    <h6 class="title">Веб</h6>
-                                    <p class="subtitle">Один из моих последних сайтов. Он принадлежит омской кондитерской компании</p>
+                                    <h6 class="title">Р’РµР±</h6>
+                                    <p class="subtitle">РћРґРёРЅ РёР· РјРѕРёС… РїРѕСЃР»РµРґРЅРёС… СЃР°Р№С‚РѕРІ. РћРЅ РїСЂРёРЅР°РґР»РµР¶РёС‚ РѕРјСЃРєРѕР№ РєРѕРЅРґРёС‚РµСЂСЃРєРѕР№ РєРѕРјРїР°РЅРёРё</p>
                                 </div>
                             </div> 
                         </div>                         
@@ -414,7 +413,7 @@
                                 <a class="img-popup" href="assets/imgs/advertising-2.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">UX</h6>
-                                    <p class="subtitle">UX дизайн лондонской забегаловки</p>
+                                    <p class="subtitle">UX РґРёР·Р°Р№РЅ Р»РѕРЅРґРѕРЅСЃРєРѕР№ Р·Р°Р±РµРіР°Р»РѕРІРєРё</p>
                                 </div>
                             </div>    
                         </div>              
@@ -425,8 +424,8 @@
                             <div class="content-holder">
                                 <a class="img-popup" href="assets/imgs/web-4.jpg"></a>
                                 <div class="text-holder">
-                                    <h6 class="title">Веб</h6>
-                                    <p class="subtitle">Мой пилотный лэйдинговый сайт с javascript</p>
+                                    <h6 class="title">Р’РµР±</h6>
+                                    <p class="subtitle">РњРѕР№ РїРёР»РѕС‚РЅС‹Р№ Р»СЌР№РґРёРЅРіРѕРІС‹Р№ СЃР°Р№С‚ СЃ javascript</p>
                                 </div>
                             </div>
                         </div>                                                     
@@ -439,7 +438,7 @@
                                 <a class="img-popup" href="assets/imgs/advertising-1.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">UX</h6>
-                                    <p class="subtitle">UX дизайн кросовок</p>
+                                    <p class="subtitle">UX РґРёР·Р°Р№РЅ РєСЂРѕСЃРѕРІРѕРє</p>
                                 </div>
                             </div>
                         </div>                                                       
@@ -450,8 +449,8 @@
                            <div class="content-holder">
                                 <a class="img-popup" href="assets/imgs/web-3.jpg"></a>
                                 <div class="text-holder">
-                                    <h6 class="title">Веб</h6>
-                                    <p class="subtitle">Лейндинг для минмой картинной галереи </p>
+                                    <h6 class="title">Р’РµР±</h6>
+                                    <p class="subtitle">Р›РµР№РЅРґРёРЅРі РґР»СЏ РјРёРЅРјРѕР№ РєР°СЂС‚РёРЅРЅРѕР№ РіР°Р»РµСЂРµРё </p>
                                 </div>
                             </div>
                         </div>                                                     
@@ -463,7 +462,7 @@
                                 <a class="img-popup" href="assets/imgs/advertising-3.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">UX</h6>
-                                    <p class="subtitle">UX дизайн для минмой горнодобывающей промышленности</p>
+                                    <p class="subtitle">UX РґРёР·Р°Р№РЅ РґР»СЏ РјРёРЅРјРѕР№ РіРѕСЂРЅРѕРґРѕР±С‹РІР°СЋС‰РµР№ РїСЂРѕРјС‹С€Р»РµРЅРЅРѕСЃС‚Рё</p>
                                 </div>
                             </div>
                         </div>                                                       
@@ -475,7 +474,7 @@
                                 <a class="img-popup" href="assets/imgs/advertising-4.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">UX</h6>
-                                    <p class="subtitle">Один из моих первых UX дизайнов</p>
+                                    <p class="subtitle">РћРґРёРЅ РёР· РјРѕРёС… РїРµСЂРІС‹С… UX РґРёР·Р°Р№РЅРѕРІ</p>
                                 </div>
                             </div>
                         </div>
@@ -488,7 +487,7 @@
                                 <a class="img-popup" href="assets/imgs/branding-1.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">Unreal Engine 5</h6>
-                                    <p class="subtitle">Ммо рпг на UE5</p>
+                                    <p class="subtitle">РњРјРѕ СЂРїРі РЅР° UE5</p>
                                 </div>
                             </div> 
                         </div>
@@ -500,7 +499,7 @@
                                 <a class="img-popup" href="assets/imgs/branding-2.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">Unreal Engine 5</h6>
-                                    <p class="subtitle">Простой платформер на UE5 </p>
+                                    <p class="subtitle">РџСЂРѕСЃС‚РѕР№ РїР»Р°С‚С„РѕСЂРјРµСЂ РЅР° UE5 </p>
                                 </div>
                             </div>
                         </div>                                                     
@@ -512,7 +511,7 @@
                                 <a class="img-popup" href="assets/imgs/branding-3.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">Unreal Engine 5</h6>
-                                    <p class="subtitle">Линейная 2D игра на UE5</p>
+                                    <p class="subtitle">Р›РёРЅРµР№РЅР°СЏ 2D РёРіСЂР° РЅР° UE5</p>
                                 </div>
                             </div>
                         </div>                                                    
@@ -524,7 +523,7 @@
                                 <a class="img-popup" href="assets/imgs/branding-4.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">Unreal Engine 5</h6>
-                                    <p class="subtitle">Прятки на острове</p>
+                                    <p class="subtitle">РџСЂСЏС‚РєРё РЅР° РѕСЃС‚СЂРѕРІРµ</p>
                                 </div>
                             </div>
                         </div>                                                      
@@ -536,7 +535,7 @@
                                 <a class="img-popup" href="assets/imgs/branding-5.jpg"></a>
                                 <div class="text-holder">
                                     <h6 class="title">Unreal Engine 5</h6>
-                                    <p class="subtitle">Мой первый платформер на UE5</p>
+                                    <p class="subtitle">РњРѕР№ РїРµСЂРІС‹Р№ РїР»Р°С‚С„РѕСЂРјРµСЂ РЅР° UE5</p>
                                 </div>
                             </div>
                         </div>                                                   
@@ -626,32 +625,32 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="contact-form-card">
-                        <h4 class="contact-title">Напишите мне</h4>
+                        <h4 class="contact-title">РќР°РїРёС€РёС‚Рµ РјРЅРµ</h4>
                         <form action="">
                             <div class="form-group">
-                                <input  class="form-control" type="text" placeholder="Имя *" required>
+                                <input  class="form-control" type="text" placeholder="РРјСЏ *" required>
                             </div>
                             <div class="form-group">
                                 <input class="form-control" type="email" placeholder="Email *" required>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" id=" placeholder="Сообщение *" rows="7" required></textarea>
+                                <textarea class="form-control" id=" placeholder="РЎРѕРѕР±С‰РµРЅРёРµ *" rows="7" required></textarea>
                             </div>
                             <div class="form-group ">
-                                <button type="submit" class="form-control btn btn-primary" >Отправить сообщение</button>
+                                <button type="submit" class="form-control btn btn-primary" >РћС‚РїСЂР°РІРёС‚СЊ СЃРѕРѕР±С‰РµРЅРёРµ</button>
                             </div>
                         </form>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="contact-info-card">
-                        <h4 class="contact-title">Свяжитесь со мной</h4>
+                        <h4 class="contact-title">РЎРІСЏР¶РёС‚РµСЃСЊ СЃРѕ РјРЅРѕР№</h4>
                         <div class="row mb-2">
                             <div class="col-1 pt-1 mr-1">
                                 <i class="ti-widget icon-phone-outline icon-md"></i>
                             </div>
                             <div class="col-10 ">
-                                <h6 class="d-inline">Телефон : <br> <span class="text-muted">+7 901 263 06 42</span></h6>
+                                <h6 class="d-inline">РўРµР»РµС„РѕРЅ : <br> <span class="text-muted">+7 901 263 06 42</span></h6>
                             </div>
                         </div>
                         <div class="row mb-2">
@@ -659,7 +658,7 @@
                                 <i class="ti-widget icon-home-outline icon-md"></i>
                             </div>
                             <div class="col-10">
-                                <h6 class="d-inline">Адрес :<br> <span class="text-muted">ул. 70 лет Октября, 7, Омск, Омская обл., Россия, 644074</span></h6>
+                                <h6 class="d-inline">РђРґСЂРµСЃ :<br> <span class="text-muted">СѓР». 70 Р»РµС‚ РћРєС‚СЏР±СЂСЏ, 7, РћРјСЃРє, РћРјСЃРєР°СЏ РѕР±Р»., Р РѕСЃСЃРёСЏ, 644074</span></h6>
                             </div>
                         </div>
                         <div class="row mb-2">
@@ -710,4 +709,3 @@
 
 </body>
 </html>
-
