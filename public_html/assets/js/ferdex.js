@@ -102,31 +102,25 @@ ymaps.ready(function () {
 
 
   // Добавляем объекты на карту
-  map.geoObjects.add(placemark);
+
 });
 
 
 
 function printPDF() {
-  // URL PDF файла
- var pdfUrl = '/assets/pdf/Resume.pdf';
-  
-  // Загружаем PDF файл
-  pdfjsLib.getDocument(pdfUrl).then(function(pdf) {
-    // Получаем первую страницу PDF файла
-    pdf.getPage(1).then(function(page) {
-      // Создаем объект печати
-      var printOptions = {
-        'documentTitle': 'Andreev Andrey',
-        'autoPrint': true
-      };
-      
-      // Открываем диалоговое окно печати
-      page.getOperatorList().then(function() {
-        pdf.print(printOptions);
-      });
-    });
-  });
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '/assets/pdf/Resume.pdf', true);
+  xhr.responseType = 'blob';
+
+  xhr.onload = function(e) {
+    if (this.status == 200) {
+      var blob = new Blob([this.response], { type: 'application/pdf' });
+      var fileURL = URL.createObjectURL(blob);
+      window.open(fileURL);
+    }
+  };
+
+  xhr.send();
 }
 
 // Привязываем функцию к кнопке
