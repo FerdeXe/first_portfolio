@@ -126,3 +126,8 @@ function printPDF() {
 // Привязываем функцию к кнопке
 var printButton = document.getElementById('printResume');
 printButton.addEventListener('click', printPDF);
+
+//отправка на почту
+document.getElementById("message").addEventListener("click", function() {
+  alert("Message sent successfully");
+});
