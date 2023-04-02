@@ -42,10 +42,10 @@ $(window).on("load", function() {
 });
 
 
-// google maps
+//  maps
 ymaps.ready(function () {
   var map = new ymaps.Map('map', {
-    center: [40.674, -73.945],
+   center: [54.984245, 73.368820],
     zoom: 12,
       controls: ['zoomControl']
 
@@ -56,8 +56,11 @@ ymaps.ready(function () {
     minZoom: 3,
     autoFitToViewport: 'always',
     avoidFractionalZoom: true,
-    restrictMapArea: [[-90, -180], [90, 180]],
-    projection: new ymaps.projection.Cartesian([[-16384, 16384], [16384, -16384]], [false, false]),
+   restrictMapArea: [
+                  [54.975860, 73.268738],
+                  [55.015374, 73.383422]
+                ],
+    //projection: new ymaps.projection.Cartesian([[-16384, 16384], [16384, -16384]], [false, false]),
     behaviors: ['drag', 'dblClickZoom', 'multiTouch'],
     type: 'yandex#map',
     cursor: 'pointer',
@@ -70,11 +73,16 @@ ymaps.ready(function () {
     mapAutoFocus: true,
     suppressObsoleteBrowserNotifier: true,
     suppressMapOpenBlock: true,
-    geoObjects: new ymaps.GeoObjectCollection(null, {
-      preset: 'islands#blueIcon',
-    })
+    
   });
 
+ 
+
+
+   map.geoObjects.add(new ymaps.Placemark([54.985343, 73.310846], {
+    balloonContentHeader: "my office",
+   
+  }));
 
   // Создаем стилизованные объекты управления
   var zoomControl = new ymaps.control.ZoomControl({
@@ -91,15 +99,7 @@ ymaps.ready(function () {
   map.controls.add(zoomControl);
 
   // Создаем объекты на карте
-  var placemark = new ymaps.Placemark([40.674, -73.945], {
-    balloonContent: 'Наш офис',
-  }, {
-    iconLayout: 'default#image',
-    iconImageHref: 'https://yastatic.net/s3/mapsapi-icons-collection/2.1.1/icons/54.geoobject.svg',
-    iconImageSize: [32, 32],
-    iconImageOffset: [-16, -16],
-    hideIconOnBalloonOpen: false,
-  });
+
 
   // Добавляем объекты на карту
   map.geoObjects.add(placemark);
