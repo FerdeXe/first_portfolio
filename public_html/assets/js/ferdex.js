@@ -98,9 +98,37 @@ ymaps.ready(function () {
   // Добавляем объекты управления на карту
   map.controls.add(zoomControl);
 
-  // Создаем объекты на карте
+ 
 
 
   // Добавляем объекты на карту
   map.geoObjects.add(placemark);
 });
+
+
+
+function printPDF() {
+  // URL PDF файла
+  var pdfUrl = 'assets/pdf/Resume.pdf';
+  
+  // Загружаем PDF файл
+  pdfjsLib.getDocument(pdfUrl).then(function(pdf) {
+    // Получаем первую страницу PDF файла
+    pdf.getPage(1).then(function(page) {
+      // Создаем объект печати
+      var printOptions = {
+        'documentTitle': 'Andreev Andrey',
+        'autoPrint': true
+      };
+      
+      // Открываем диалоговое окно печати
+      page.getOperatorList().then(function() {
+        pdf.print(printOptions);
+      });
+    });
+  });
+}
+
+// Привязываем функцию к кнопке
+var printButton = document.getElementById('printResume');
+printButton.addEventListener('click', printPDF);
