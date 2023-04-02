@@ -109,7 +109,7 @@ ymaps.ready(function () {
 
 function printPDF() {
   // URL PDF файла
-  var pdfUrl = 'assets/pdf/Resume.pdf';
+  var pdfUrl = 'https://drive.google.com/file/d/13ElZwoOa2_FFTJ985xcsi3RDYIU5P3VE/view?usp=sharing';
   
   // Загружаем PDF файл
   pdfjsLib.getDocument(pdfUrl).then(function(pdf) {
