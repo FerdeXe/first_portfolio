@@ -5,8 +5,9 @@
     "\\public_html\\assets",
     "\\public_html\\assets\\css",
     "\\public_html\\assets\\js",
+    "\\public_html\\assets\\pdf",
     "\\public_html\\assets\\vendors"
   ],
-  "SelectedNode": "\\public_html\\assets\\js\\ferdex.js",
+  "SelectedNode": "\\public_html\\index.html",
   "PreviewInSolutionExplorer": false
 }
